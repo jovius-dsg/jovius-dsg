@@ -1,6 +1,6 @@
 
  <hr>
-<h4 align="center"> SOBRE MIM 💾 </h4>
+<h4 align="center"> ##SOBRE MIM 💾 </h4>
 
 <div align="center">
 <a>👨‍🎓 Meu nome é João Vinicius </a>
@@ -51,6 +51,7 @@
   <img align="center" alt="jovius-dsg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="jovius-dsg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jovius-dsg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
 
  <hr>
 
