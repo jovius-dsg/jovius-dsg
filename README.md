@@ -1,6 +1,7 @@
 
  <hr>
 <div> 
+<div> 
 <h4 align="center"> SOBRE MIM 💾 </h4>
 
 <div align="center">
@@ -30,7 +31,9 @@
 <div align="center">
 <a>🚀 Driven by problem solving</a>
 </div>
+ 
 </div>
+</div> 
 
  <hr>
  
