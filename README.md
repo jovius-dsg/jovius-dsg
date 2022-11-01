@@ -7,7 +7,7 @@
  </div>
  
  <div>
-  <a>👨‍🎓 Eu sou o João Vinicius! </a>
+  <a>👨‍🎓 Eu sou João Vinicius! </a>
  </div>
  
  <div>
