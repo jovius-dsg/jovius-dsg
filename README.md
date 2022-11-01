@@ -74,7 +74,7 @@
  
 <div align="center">
 
- <h4> LINGUAGENS E TECNOLOGIAS </h4>
+ <h4> LINGUAGENS E TECNOLOGIAS 💽 </h4>
  
 </div>
  
