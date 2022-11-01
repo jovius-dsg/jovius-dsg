@@ -30,7 +30,7 @@
  </div> 
  
  <div> 
-  <a>🎓 I am a Computer Science support</a>
+  <a>🎓 I am a Computer Science Academic</a>
  </div>
 
  <div>
