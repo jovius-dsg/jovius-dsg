@@ -1,6 +1,6 @@
 
  <hr>
-<h4 align="center"> Sobre mim 💾 </h4>
+<h4 align="center"> SOBRE MIM 💾 </h4>
 
 <div align="center">
 <a>👨‍🎓 Meu nome é João Vinicius </a>
