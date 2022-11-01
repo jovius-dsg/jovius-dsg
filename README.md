@@ -15,8 +15,7 @@
  <div align="center">
  <a>🚀 Movido pela resolução de problemas </a>
  </div>
- </div><div>
- <h4 align="center"> ABOUT ME 💾 </h4>
+ </div><div><h4 align="center"> ABOUT ME 💾 </h4>
 
  <div align="center">
  <a>👨‍🎓 I'm João Vinicius! </a>
