@@ -1,6 +1,6 @@
 
  <hr>
-<div> 
+<div align="left"> 
 <div> 
 <h4 align="center"> SOBRE MIM 💾 </h4>
 
