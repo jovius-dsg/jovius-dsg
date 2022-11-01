@@ -11,7 +11,7 @@
  </div>
  
  <div>
-  <a>🎓 Sou acadêmico de Ciência da Computação</a>
+  <a>🎓 Acadêmico de Ciência da Computação</a>
  </div>
  
  <div>
@@ -30,7 +30,7 @@
  </div> 
  
  <div> 
-  <a>🎓 I am a Computer Science Academic</a>
+  <a>🎓 A Computer Science Academic</a>
  </div>
 
  <div>
