@@ -68,8 +68,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovius-dsg&theme=radical)](https://github.com/jovius-dsg/github-readme-stats)
 
+
+<hr>
  
-  
+ 
+<div align="center">
+
+ <h4> LINGUAGENS E TECNOLOGIAS </h4>
+ 
+</div>
+ 
+ 
 <div align="center"><br>
   <img align="center" alt="jovius-dsg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jovius-dsg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -77,6 +86,7 @@
   <img align="center" alt="jovius-dsg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jovius-dsg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 
  <hr>
 
