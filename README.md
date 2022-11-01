@@ -1,7 +1,7 @@
 
  <hr>
-<center> 
- <div> 
+
+<div> 
  <h4 align="center"> SOBRE MIM 💾 </h4>
 
  <div align="center">
@@ -15,9 +15,7 @@
  <div align="center">
  <a>🚀 Movido pela resolução de problemas </a>
  </div>
- </div>
-
- <div>
+ </div><div>
  <h4 align="center"> ABOUT ME 💾 </h4>
 
  <div align="center">
@@ -33,7 +31,6 @@
  </div>
  </div>
  
-</center> 
 
  <hr>
  
