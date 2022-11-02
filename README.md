@@ -2,7 +2,7 @@
  
 <div dsplay="inline-block">
  
- <div>
+ <div align="left">
   <a><h4> SOBRE MIM 💾 </h4></a>
 
   <a><p>👨‍🎓 Eu sou João Vinicius! </p></a>
@@ -12,7 +12,7 @@
   <a><p>🚀 Movido pela resolução de problemas </p></a>
   </div>
 
- <div>
+ <div align="left">
   <a><h4> ABOUT ME 💾 </h4></a>
 
   <a><p>👨‍🎓 I'm João Vinicius! </p> </a>
