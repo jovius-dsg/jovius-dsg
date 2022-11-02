@@ -1,8 +1,8 @@
 <hr>
  
-<div dsplay="inline-block">
+<div dsplay="flex">
  
- <a align="center">
+ <div align="center">
   <a><h4> SOBRE MIM 💾 </h4></a>
 
   <a><p>👨‍🎓 Eu sou João Vinicius! </p></a>
@@ -10,7 +10,7 @@
   <a><p>🎓 Acadêmico de Ciência da Computação</p></a>
 
   <a><p>🚀 Movido pela resolução de problemas </p></a>
-  </a>
+  </div>
 
  <a align="center">
   <a><h4> ABOUT ME 💾 </h4></a>
@@ -20,7 +20,7 @@
   <a><p>🎓 A Computer Science Academic</p></a>
 
   <a><p>🚀 Driven by problem solving</p></a>
- </a>
+ </div>
 
 </div>  
  
