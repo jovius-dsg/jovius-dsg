@@ -1,7 +1,7 @@
 <hr>
  
 <div dsplay="inline-block">
- <div align="center">
+<div align="center">
   <div>
    <h4> SOBRE MIM 💾 </h4>
   </div>
@@ -13,11 +13,14 @@
   <div>
    <a>🎓 Acadêmico de Ciência da Computação</a>
   </div>
-   
+ 
+  <div>
    <a>🚀 Movido pela resolução de problemas </a>
- </div>
+  </div>
+ 
+</div>
 
- <div align="center">
+<div align="center">
   <div>
    <h4> ABOUT ME 💾 </h4>
   </div>
@@ -34,7 +37,7 @@
    <a>🚀 Driven by problem solving</a>
   </div>
 
- </div>
+</div>
 </div>  
  
  <hr>
