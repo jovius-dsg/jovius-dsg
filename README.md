@@ -1,6 +1,6 @@
 <hr>
 
- <div align="center">
+ <div align="left">
   <h4> SOBRE MIM 💾 </h4>
   <div>
   <code><a> 👨‍🎓 Eu sou João Vinicius! </a></code>
@@ -14,8 +14,11 @@
   <code><a> 🚀 Movido pela resolução de problemas </a></code>
   </div> 
  </div> 
+ 
+</br>
+</br>
 
- <div align="center">
+ <div align="right">
   <h4> ABOUT ME 💾 </h4>
   <div>
   <code><a> 👨‍🎓 I'm João Vinicius! </a></code>
