@@ -1,6 +1,6 @@
 <hr>
  
-<div dsplay="inline-grid">
+<div dsplay="inherit">
  
  <div>
   <a><h4> SOBRE MIM 💾 </h4></a>
