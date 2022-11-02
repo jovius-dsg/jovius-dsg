@@ -1,16 +1,12 @@
 <hr>
  
 <div align="center">
- 
  <code><h4> SOBRE MIM 💾 </h4></code>
-
  <code><p>👨‍🎓 Eu sou João Vinicius! </p></code>
-
  <code><p>🎓 Acadêmico de Ciência da Computação</p></code>
-
  <code><p>🚀 Movido pela resolução de problemas </p></code>
+</div>
 
- <code>
   <a><h4> ABOUT ME 💾 </h4></a>
 
   <a><p>👨‍🎓 I'm João Vinicius! </p> </a>
