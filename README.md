@@ -1,5 +1,4 @@
-<hr>
-
+<div dsplay="inline-block">
  <div align="center">
   <h4> SOBRE MIM 💾 </h4>
   <div>
@@ -29,7 +28,7 @@
   <code><a> 🚀 Driven by problem solving </a></code>
   </div>
  </div>
- 
+</div> 
 
  
  <hr>
