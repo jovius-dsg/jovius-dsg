@@ -2,15 +2,13 @@
  
 <div align="center">
  
- <code>
-  <a><h4> SOBRE MIM 💾 </h4></a>
+ <code><h4> SOBRE MIM 💾 </h4></code>
 
-  <a><p>👨‍🎓 Eu sou João Vinicius! </p></a>
+ <code><p>👨‍🎓 Eu sou João Vinicius! </p></code>
 
-  <a><p>🎓 Acadêmico de Ciência da Computação</p></a>
+ <code><p>🎓 Acadêmico de Ciência da Computação</p></code>
 
-  <a><p>🚀 Movido pela resolução de problemas </p></a>
- </code>
+ <code><p>🚀 Movido pela resolução de problemas </p></code>
 
  <code>
   <a><h4> ABOUT ME 💾 </h4></a>
