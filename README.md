@@ -2,27 +2,26 @@
  
 <div dsplay="inline-block">
  
-<div align="center">
- <div><h4> SOBRE MIM 💾 </h4></div>
- 
- <div><a>👨‍🎓 Eu sou João Vinicius! </a></div>
- 
- <div><a>🎓 Acadêmico de Ciência da Computação</a></div>
- 
- <div><a>🚀 Movido pela resolução de problemas </a></div>
+ <div align="center">
+  <a><h4> SOBRE MIM 💾 </h4></a>
+
+  <a><p>👨‍🎓 Eu sou João Vinicius! </p></a>
+
+  <a><p>🎓 Acadêmico de Ciência da Computação</p></a>
+
+  <a><p>🚀 Movido pela resolução de problemas </p></a>
+  </div>
+
+ <div align="center">
+  <a><h4> ABOUT ME 💾 </h4></a>
+
+  <a><p>👨‍🎓 I'm João Vinicius! </p> </a>
+
+  <a><p>🎓 A Computer Science Academic</p></a>
+
+  <a><p>🚀 Driven by problem solving</p></a>
  </div>
 
-<div align="center">
-<div><h4> ABOUT ME 💾 </h4></div>
-
-<div><a>👨‍🎓 I'm João Vinicius! </a> </div>
-
-<div><a>🎓 A Computer Science Academic</a></div>
-
-<div><a>🚀 Driven by problem solving</a></div>
-
-</div>
- 
 </div>  
  
  <hr>
