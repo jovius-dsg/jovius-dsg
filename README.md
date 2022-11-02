@@ -17,10 +17,19 @@
  
 <div align="center">
  <h4> ABOUT ME 💾 </h4>
+ <div>
  <code><a> 👨‍🎓 I'm João Vinicius! </a></code>
+ </div>
+  
+ <div> 
  <code><a> 🎓 A Computer Science Academic </a></code>
+ </div>
+  
+ <div> 
  <code><a> 🚀 Driven by problem solving </a></code>
-</div>
+ </div>
+</div> 
+ 
  
  <hr>
  
