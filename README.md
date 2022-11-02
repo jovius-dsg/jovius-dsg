@@ -1,4 +1,6 @@
-<div dsplay="inline-block">
+<hr>
+
+<div align="center"><br>
  <div align="center">
   <h4> SOBRE MIM 💾 </h4>
   <div>
@@ -28,16 +30,15 @@
   <code><a> 🚀 Driven by problem solving </a></code>
   </div>
  </div>
-</div> 
-
+ 
  
  <hr>
+ 
  
 <div align="center"><br> 
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif)
-
-
+ 
  
 <div> 
  <div align="center">
