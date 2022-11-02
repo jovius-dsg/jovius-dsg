@@ -8,9 +8,9 @@
  
 <div>
  <code> <h4> ABOUT ME 💾 </h4> </code>
- <code> 👨‍🎓 I'm João Vinicius! </code>
- <code> 🎓 A Computer Science Academic </code>
- <code> 🚀 Driven by problem solving </code>
+ <code> <a> 👨‍🎓 I'm João Vinicius! </a> </code>
+ <code> <a> 🎓 A Computer Science Academic </a> </code>
+ <code> <a> 🚀 Driven by problem solving </a> </code>
 </div>
  
  <hr>
