@@ -1,6 +1,6 @@
 
  <hr>
-
+<div display: grid>
 <div align="center">
  <div>
   <h4> SOBRE MIM 💾 </h4>
@@ -37,6 +37,7 @@
   <a>🚀 Driven by problem solving</a>
  </div>
 </div>
+ </div>  
  
 
  <hr>
