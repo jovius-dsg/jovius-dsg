@@ -1,10 +1,10 @@
 <hr>
  
 <div align="center">
- <code><h4> SOBRE MIM 💾 </h4></code>
- <code><p>👨‍🎓 Eu sou João Vinicius! </p></code>
- <code><p>🎓 Acadêmico de Ciência da Computação</p></code>
- <code><p>🚀 Movido pela resolução de problemas </p></code>
+ <h4> SOBRE MIM 💾 </h4>
+ <code><a> 👨‍🎓 Eu sou João Vinicius! </a></code>
+ <code><a> 🎓 Acadêmico de Ciência da Computação </a></code>
+ <code><a> 🚀 Movido pela resolução de problemas </a></code>
 </div> 
  
 <div align="center">
