@@ -74,7 +74,6 @@
  
 
 <div align="center"><br>
-  <code>
   <img align="center" alt="jovius-dsg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jovius-dsg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="jovius-dsg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -85,5 +84,6 @@
   <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 
+ 
  <hr>
 
