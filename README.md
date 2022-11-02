@@ -16,7 +16,6 @@
  </div> 
  
 </br>
-</br>
 
  <div align="right">
   <h4> ABOUT ME 💾 </h4>
