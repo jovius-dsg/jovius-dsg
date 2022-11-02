@@ -1,6 +1,6 @@
 <hr>
  
-<div dsplay="inherit">
+<div align="center">
  
  <div>
   <a><h4> SOBRE MIM 💾 </h4></a>
