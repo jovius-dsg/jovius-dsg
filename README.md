@@ -6,10 +6,10 @@
  <code><p>🎓 Acadêmico de Ciência da Computação</p></code>
  <code><p>🚀 Movido pela resolução de problemas </p></code>
 
- <code><a><h4> ABOUT ME 💾 </h4></code>
- <code><p>👨‍🎓 I'm João Vinicius! </p></code>
- <code><p>🎓 A Computer Science Academic</p></code>
- <code><p>🚀 Driven by problem solving</p></code>
+ <code> <h4> ABOUT ME 💾 </h4> </code>
+ <code> 👨‍🎓 I'm João Vinicius! </code>
+ <code> 🎓 A Computer Science Academic </code>
+ <code> 🚀 Driven by problem solving </code>
  
  <hr>
  
