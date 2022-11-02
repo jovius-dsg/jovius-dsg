@@ -2,9 +2,17 @@
  
 <div align="center">
  <h4> SOBRE MIM 💾 </h4>
+ <div>
  <code><a> 👨‍🎓 Eu sou João Vinicius! </a></code>
+ </div>
+ 
+ <div>
  <code><a> 🎓 Acadêmico de Ciência da Computação </a></code>
+ </div>
+ 
+ <div>
  <code><a> 🚀 Movido pela resolução de problemas </a></code>
+ </div> 
 </div> 
  
 <div align="center">
