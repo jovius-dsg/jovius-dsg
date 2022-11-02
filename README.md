@@ -65,7 +65,7 @@
  
 </div>
  
- 
+
 <div align="center"><br>
   <img align="center" alt="jovius-dsg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jovius-dsg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
