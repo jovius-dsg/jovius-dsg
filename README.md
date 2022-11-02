@@ -1,6 +1,6 @@
 <hr>
  
-<div align="center">
+<div dsplay="inline-block">
  
  <div>
   <a><h4> SOBRE MIM 💾 </h4></a>
