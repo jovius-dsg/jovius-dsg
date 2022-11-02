@@ -1,22 +1,15 @@
 <hr>
  
-<div align="center">
+<div dsplay="inline-block">
  <code><h4> SOBRE MIM 💾 </h4></code>
  <code><p>👨‍🎓 Eu sou João Vinicius! </p></code>
  <code><p>🎓 Acadêmico de Ciência da Computação</p></code>
  <code><p>🚀 Movido pela resolução de problemas </p></code>
-</div>
 
-  <a><h4> ABOUT ME 💾 </h4></a>
-
-  <a><p>👨‍🎓 I'm João Vinicius! </p> </a>
-
-  <a><p>🎓 A Computer Science Academic</p></a>
-
-  <a><p>🚀 Driven by problem solving</p></a>
- </code>
-
-</div>  
+ <code><a><h4> ABOUT ME 💾 </h4></code>
+ <code><p>👨‍🎓 I'm João Vinicius! </p></code>
+ <code><p>🎓 A Computer Science Academic</p></code>
+ <code><p>🚀 Driven by problem solving</p></code>
  
  <hr>
  
